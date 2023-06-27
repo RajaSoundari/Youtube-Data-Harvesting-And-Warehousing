@@ -44,7 +44,7 @@ When engaging in the scraping of YouTube content, it is crucial to approach it e
 
 ### The following functions are available in the YouTube Data Harvesting and Warehousing application:
 
-1.Retrieval of channel and video data from YouTube using the YouTube API.
+1. Retrieval of channel and video data from YouTube using the YouTube API.
 
 2. Storage of data in a MongoDB database as a data lake.
 
