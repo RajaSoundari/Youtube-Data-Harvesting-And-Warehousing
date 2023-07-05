@@ -52,3 +52,6 @@ When engaging in the scraping of YouTube content, it is crucial to approach it e
 
 4. Search and retrieval of data from the SQL database using different search options.
 
+
+   you can view a video of this work on my linkedIn: https://www.linkedin.com/posts/raja-soundari-640152281_data-project-content-activity-7082046816392728576-TXv-?utm_source=share&utm_medium=member_desktop
+
